@@ -32,24 +32,26 @@ The goal was to provide business insights and improve operational efficiency.
 - Logistics optimization opportunities identified
 
 ## 📷 Dashboard Screenshots
+### Starting Page
+![Starting_page](Screenshot%202026-02-10%20130223.png)
 
 ### Overview
-![Overview](overview.png)
+![Overview](Screenshot%202026-02-10%20130444.jpg)
 
 ### Inventory
-![Inventory](inventory.png)
+![Inventory](Screenshot%202026-02-10%20130539.jpg)
 
 ### Shipment
-![Shipment](shipment.png)
+![Shipment](Screenshot%202026-02-10%20130614.jpg)
 
 ### Supplier
-![Supplier](supplier.png)
+![Supplier](Screenshot%202026-02-10%20130701.jpg)
 
 ### Customer
-![Customer](customer.png)
+![Customer](Screenshot%202026-02-10%20130806.jpg)
 
 ## 📂 Files
 - dashboard.pbix (Power BI file)
 
 ## 👨‍💻 Author
-Your Name
+Abhishek U M
